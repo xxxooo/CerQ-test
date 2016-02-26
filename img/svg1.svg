@@ -1,0 +1,7 @@
+<svg viewBox="0 0 720 720">
+	<linearGradient id="SI1" gradientUnits="userSpaceOnUse" x1="254" y1="381" x2="331" y2="668"><stop offset="0" style="stop-color:#FFB468"/><stop offset="1" style="stop-color:#E80055"/></linearGradient>
+	<g id="P2"><path id="P1" fill="url(#SI1)" d="M253.93,381.21L116.92,518.23c10.81,16.57,23.47,32.28,38.02,46.83c91.03,91.03,227.53,108.87,336.4,53.56L253.93,381.21z"/>
+	<use xlink:href="#P1" transform="rotate(180,360,360)"/></g>
+	<use xlink:href="#P2" transform="rotate(90,360,360)"/>
+	<circle cx="360" cy="360" r="340" fill="none" stroke="#F03C5A" stroke-width="40"/>
+</svg>
